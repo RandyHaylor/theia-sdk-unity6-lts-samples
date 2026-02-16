@@ -13,7 +13,10 @@
         "sample"
     ],
     "dependencies": {
-        "com.harmoneyes.sdk": "3.4.0"
+        "com.harmoneyes.sdk": "3.4.0",
+        "com.unity.xr.oculus": "4.0.0",
+        "com.meta.xr.sdk.core": "60.0.0",
+        "com.meta.xr.sdk.interaction": "60.0.0"
     },
     "author": {
         "name": "HarmonEyes"

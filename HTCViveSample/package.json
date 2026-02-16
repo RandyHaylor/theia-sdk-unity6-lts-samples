@@ -12,7 +12,8 @@
         "sample"
     ],
     "dependencies": {
-        "com.harmoneyes.sdk": "3.4.0"
+        "com.harmoneyes.sdk": "3.4.0",
+        "com.valvesoftware.unity.openvr": "1.1.4"
     },
     "author": {
         "name": "HarmonEyes"

@@ -13,7 +13,8 @@
         "experimental"
     ],
     "dependencies": {
-        "com.harmoneyes.sdk": "3.4.0"
+        "com.harmoneyes.sdk": "3.4.0",
+        "com.varjo.xr": "3.5.0"
     },
     "author": {
         "name": "HarmonEyes"
