@@ -2,7 +2,6 @@
     "name": "Theia.Samples.Oculus",
     "rootNamespace": "Theia.Samples.Oculus",
     "references": [
-        "Theia.Samples.EyeTracking"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

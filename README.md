@@ -4,7 +4,7 @@ Sample scenes and scripts for the Theia SDK (formerly HarmonEyes SDK) targeting 
 
 ## Important: Import Samples Individually
 
-This repository contains **4 separate sample packages** that should be imported individually to avoid conflicts. Each sample is designed for a specific VR platform.
+This repository contains **3 separate sample packages** that should be imported individually to avoid conflicts. Each sample is designed for a specific VR platform.
 
 **⚠️ Do NOT import multiple platform samples simultaneously** - only import the sample(s) you need for your target VR platform.
 
@@ -18,20 +18,8 @@ https://github.com/RandyHaylor/theia-sdk-core.git
 
 ## Available Samples
 
-### 1. Eye Tracking Common (Recommended for all projects)
 
-Common scripts and utilities for eye tracking. Import this first.
-
-**Import URL:**
-```
-https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/EyeTrackingCommon
-```
-
-**What's included:** Base eye tracking scripts, utilities, and common functionality used across all platforms.
-
----
-
-### 2. Oculus/Meta Quest Sample
+### 1. Oculus/Meta Quest Sample
 
 Sample scene for Oculus/Meta Quest headsets with interactive eye tracking demonstrations.
 
@@ -44,7 +32,7 @@ https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/OculusSamp
 
 ---
 
-### 3. HTC VIVE Sample
+### 2. HTC VIVE Sample
 
 Sample scene for HTC VIVE headsets.
 
@@ -57,7 +45,7 @@ https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/HTCViveSam
 
 ---
 
-### 4. Varjo Sample (Experimental)
+### 3. Varjo Sample (Experimental)
 
 Experimental sample scene for Varjo headsets.
 
@@ -78,12 +66,7 @@ https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/VarjoSampl
 3. Paste: `https://github.com/RandyHaylor/theia-sdk-core.git`
 4. Click "Add"
 
-### Step 2: Install Common Scripts (Recommended)
-1. In Package Manager, click "+" → "Add package from git URL..."
-2. Paste: `https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/EyeTrackingCommon`
-3. Click "Add"
-
-### Step 3: Install Your Platform Sample
+### Step 2: Install Your Platform Sample
 1. In Package Manager, click "+" → "Add package from git URL..."
 2. Paste the URL for your target platform (see above)
 3. Click "Add"

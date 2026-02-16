@@ -2,7 +2,6 @@
     "name": "Theia.Samples.HTCVive",
     "rootNamespace": "Theia.Samples.HTCVive",
     "references": [
-        "Theia.Samples.EyeTracking"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
