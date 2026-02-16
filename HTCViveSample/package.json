@@ -18,5 +18,12 @@
     },
     "author": {
         "name": "HarmonEyes"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "HTC VIVE Eye Tracking Demo",
+            "description": "Interactive demo scene with eye tracking",
+            "path": "Samples~/HTCViveDemo"
+        }
+    ]
 }
