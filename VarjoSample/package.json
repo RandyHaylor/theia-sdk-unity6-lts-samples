@@ -13,7 +13,7 @@
         "experimental"
     ],
     "dependencies": {
-        "com.harmoneyes.sdk": "3.4.1"
+        "com.harmoneyes.sdk": "3.4.0"
     },
     "author": {
         "name": "HarmonEyes"
