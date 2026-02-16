@@ -36,6 +36,8 @@ https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/OculusSamp
 
 Sample scene for HTC VIVE headsets.
 
+**⚠️ Important:** OpenVR/SteamVR cannot be automatically installed. You must manually install the SteamVR Unity Plugin from the Asset Store before using this sample.
+
 **Import URL:**
 ```
 https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/HTCViveSample
