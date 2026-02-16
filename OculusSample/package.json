@@ -21,5 +21,12 @@
     },
     "author": {
         "name": "HarmonEyes"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Oculus Eye Tracking Demo",
+            "description": "Interactive demo scene with eye tracking",
+            "path": "Samples~/OculusDemo"
+        }
+    ]
 }
