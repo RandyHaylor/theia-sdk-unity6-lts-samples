@@ -1,0 +1,16 @@
+{
+    "name": "Theia.Samples.EyeTracking",
+    "rootNamespace": "Theia.Samples.EyeTracking",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "HarmonEyesSDK.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

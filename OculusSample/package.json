@@ -1,0 +1,21 @@
+{
+    "name": "com.harmoneyes.sdk.samples.oculus",
+    "displayName": "Theia SDK - Oculus Sample (Unity 6 LTS)",
+    "version": "3.4.0",
+    "unity": "6000.0",
+    "description": "Sample scene for Oculus/Meta Quest demonstrating eye tracking with the Theia SDK. Includes interactive cubes that highlight when gazed at.",
+    "keywords": [
+        "theia",
+        "harmoneyes",
+        "eye tracking",
+        "oculus",
+        "meta quest",
+        "sample"
+    ],
+    "dependencies": {
+        "com.harmoneyes.sdk": "https://github.com/RandyHaylor/theia-sdk-core.git"
+    },
+    "author": {
+        "name": "HarmonEyes"
+    }
+}

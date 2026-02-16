@@ -1,0 +1,20 @@
+{
+    "name": "com.harmoneyes.sdk.samples.htcvive",
+    "displayName": "Theia SDK - HTC VIVE Sample (Unity 6 LTS)",
+    "version": "3.4.0",
+    "unity": "6000.0",
+    "description": "Sample scene for HTC VIVE demonstrating eye tracking with the Theia SDK.",
+    "keywords": [
+        "theia",
+        "harmoneyes",
+        "eye tracking",
+        "htc vive",
+        "sample"
+    ],
+    "dependencies": {
+        "com.harmoneyes.sdk": "https://github.com/RandyHaylor/theia-sdk-core.git"
+    },
+    "author": {
+        "name": "HarmonEyes"
+    }
+}
