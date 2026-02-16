@@ -19,5 +19,12 @@
     },
     "author": {
         "name": "HarmonEyes"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Varjo Eye Tracking Demo (Experimental)",
+            "description": "Interactive demo scene with eye tracking",
+            "path": "Samples~/VarjoDemo"
+        }
+    ]
 }
