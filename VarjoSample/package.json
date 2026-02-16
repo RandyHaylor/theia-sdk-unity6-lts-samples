@@ -1,7 +1,7 @@
 {
     "name": "com.harmoneyes.sdk.samples.varjo",
     "displayName": "Theia SDK - Varjo Sample (Unity 6 LTS) [Experimental]",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "unity": "6000.0",
     "description": "Experimental sample scene for Varjo headsets demonstrating eye tracking with the Theia SDK.",
     "keywords": [
@@ -13,7 +13,7 @@
         "experimental"
     ],
     "dependencies": {
-        "com.harmoneyes.sdk": "https://github.com/RandyHaylor/theia-sdk-core.git"
+        "com.harmoneyes.sdk": "3.4.1"
     },
     "author": {
         "name": "HarmonEyes"
