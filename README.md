@@ -68,10 +68,19 @@ https://github.com/RandyHaylor/theia-sdk-unity6-lts-samples.git?path=/VarjoSampl
 3. Paste: `https://github.com/RandyHaylor/theia-sdk-core.git`
 4. Click "Add"
 
-### Step 2: Install Your Platform Sample
+### Step 2: Install Your Platform Sample Package
 1. In Package Manager, click "+" → "Add package from git URL..."
 2. Paste the URL for your target platform (see above)
 3. Click "Add"
+4. Wait for package to install
+
+### Step 3: Import Sample Content to Assets Folder
+1. In Package Manager, find the sample package you just installed
+2. In the package details, expand the "Samples" section
+3. Click "Import" to copy sample content to your Assets folder
+4. Sample content will be placed in `Assets/Samples/`
+
+**Note:** Sample packages install to the Packages folder first, then you manually import the content to Assets where you can edit it.
 
 ## Requirements
 
